@@ -19,3 +19,5 @@ require("channels")
 // Add following lines.
 //= require jquery 
 //= require jquery_ujs
+import "bootstrap"
+import "./credit_card_form"
